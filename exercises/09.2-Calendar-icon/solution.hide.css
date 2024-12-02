@@ -21,8 +21,8 @@
 	border-bottom-left-radius: 3px;
 }
 
-.calendar:before,
-.calendar:after {
+.calendar::before,
+.calendar::after {
 	position: absolute;
 	content: "";
 	float: left;
